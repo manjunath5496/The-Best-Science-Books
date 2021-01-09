@@ -393,49 +393,47 @@ Science and Culture, and Other Essays</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(210).pdf" style="text-decoration:none;">Seaside Studies in Natural History</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(211).pdf" style="text-decoration:none;">Verbs and Times</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(211).pdf" style="text-decoration:none;">Secrets of Wise Men, Chemists and Great Physicians</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(212).pdf" style="text-decoration:none;">The stages of event extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(213).pdf" style="text-decoration:none;">Extracting Complex Biological Events with Rich Graph-Based Feature Sets</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(212).pdf" style="text-decoration:none;">Significant Achievements in Space Bioscience: 1958-1964</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(213).pdf" style="text-decoration:none;">Social Life in the Insect World</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(214).pdf" style="text-decoration:none;">Biomedical Event Extraction without Training Data</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(215).pdf" style="text-decoration:none;">A Markov Logic Approach to Bio-Molecular Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(214).pdf" style="text-decoration:none;">Synopsis of Some Genera of the Large Pyrenomycetes</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(215).pdf" style="text-decoration:none;">Taboo and Genetics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(216).pdf" style="text-decoration:none;">Syntactic Dependency Based Heuristics for Biological Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(217).pdf" style="text-decoration:none;">Can One Language Bootstrap the Other: A Case Study on Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(216).pdf" style="text-decoration:none;">Text Book of Biology, Part 1: Vertebrata</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(217).pdf" style="text-decoration:none;">Love's Meinie Three Lectures on Greek and English Birds</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(218).pdf" style="text-decoration:none;">Graph-based Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(219).pdf" style="text-decoration:none;">A Pairwise Event Coreference Model, Feature Impact and Evaluation for Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(220).pdf" style="text-decoration:none;">Biomedical Event Extraction from Abstracts and Full Papers using Search-based Structured Prediction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(218).pdf" style="text-decoration:none;">The Beauties of Nature and the Wonders of the World We Live In</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(219).pdf" style="text-decoration:none;">The Biology, Physiology and Sociology of Reproduction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(220).pdf" style="text-decoration:none;">The Breath of Life</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(221).pdf" style="text-decoration:none;">Robust Biomedical Event Extraction with Dual Decomposition and Minimal Domain Adaptation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(222).pdf" style="text-decoration:none;">Biomedical Event Extraction
-by Multi-class Classification of Pairs of Text Entities</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(221).pdf" style="text-decoration:none;">The Chemistry of Cookery</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(222).pdf" style="text-decoration:none;">The Chemistry of Food and Nutrition</a></li> 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(223).pdf" style="text-decoration:none;">A Hybrid Approach for Biomedical Event Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(223).pdf" style="text-decoration:none;">The Chemistry of Hat Manufacturing</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(224).pdf" style="text-decoration:none;">Unsupervised Techniques for Extracting and Clustering Complex Events in News</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(224).pdf" style="text-decoration:none;">The Chemistry, Properties and Tests of Precious Stones</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(225).pdf" style="text-decoration:none;">Evaluation for Partial Event Coreference</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(226).pdf" style="text-decoration:none;">Translating Granularity of Event Slots into Features for Event Coreference Resolution</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(227).pdf" style="text-decoration:none;">From Light to Rich ERE:
-Annotation of Entities, Relations, and Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(228).pdf" style="text-decoration:none;">A Comparison of Event Representations in DEFT</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(229).pdf" style="text-decoration:none;">A Two-stage Approach for Extending Event Detection to New Types via Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(225).pdf" style="text-decoration:none;">The Coming of Evolution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(226).pdf" style="text-decoration:none;">The Complete Works in Philosophy, Politics and Morals of the late Dr. Benjamin Franklin, [Vol 1 of 3]</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(227).pdf" style="text-decoration:none;">The Darwinian Hypothesis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(228).pdf" style="text-decoration:none;">The Dawn of Reason or, Mental Traits in the Lower Animals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(229).pdf" style="text-decoration:none;">The Descent of Man and Selection in Relation to Sex</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(230).pdf" style="text-decoration:none;"> Building a Cross-document Event-Event Relation Corpus </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(230).pdf" style="text-decoration:none;"> The Descent of Man and Selection in Relation to Sex, Vol. I </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(231).pdf" style="text-decoration:none;">
-Biomolecular Event Extraction using a Stacked Generalization based Classifier</a></li>
+The Doctor's Dilemma: Preface on Doctors</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(232).pdf" style="text-decoration:none;">Biomedical Event Extraction using Abstract Meaning Representation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(233).pdf" style="text-decoration:none;">Automatically Acquiring Conceptual Patterns Without an Annotated Corpus</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(234).pdf" style="text-decoration:none;">Event Coreference for Information Extraction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(235).pdf" style="text-decoration:none;">Automatic Event and Relation Detection with Seeds of Varying Complexity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(232).pdf" style="text-decoration:none;">The Face of the Earth as Seen from the Air: A Study in the Application of Airplane Photography to Geography</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(233).pdf" style="text-decoration:none;">The Elements of Blowpipe Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(234).pdf" style="text-decoration:none;">The Elements of Qualitative Chemical Analysis, vol. 1, parts 1 and 2. With Special Consideration of the Application of the Laws of Equilibrium and of the Modern Theories of Solution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(235).pdf" style="text-decoration:none;">The Female Physician</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(236).pdf" style="text-decoration:none;">Event Structures in Linguistic Form and Interpretation (Introduction)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(236).pdf" style="text-decoration:none;">The Florist and Horticultural Journal, Vol. II. No. 7, July, 1853</a></li>
 </ul>
 
 
