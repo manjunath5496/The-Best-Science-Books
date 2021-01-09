@@ -1,3 +1,27 @@
+<table class="infobox vcard"><caption class="fn org">Project Gutenberg</caption>
+<tbody>
+<tr>
+<td colspan="2"><a class="image" href="220px-Project_Gutenberg_logo.svg.png"><img src="220px-Project_Gutenberg_logo.svg.png" srcset="220px-Project_Gutenberg_logo.svg.png" alt="Project Gutenberg logo.svg" width="220" height="220" data-file-width="572" data-file-height="572" /></a></td>
+</tr>
+<tr>
+<th scope="row">Established</th>
+<td>December&nbsp;1971<span class="noprint">; 49&nbsp;years ago</span><br />(first document posted)<sup id="cite_ref-gut1_1-0" class="reference"></sup></td>
+</tr>
+<tr>
+<th colspan="2">Collection</th>
+</tr>
+<tr>
+<th scope="row">Size</th>
+<td>Over 60,000 documents</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="https://www.gutenberg.org/" rel="nofollow">Project Gutenberg Home Page</a></span></td>
+</tr>
+</tbody>
+</table>
+</br>
+
 <p><strong>Project Gutenberg</strong>&nbsp;(<strong>PG</strong>) is a&nbsp;<a title="Virtual volunteering" href="https://en.wikipedia.org/wiki/Virtual_volunteering">volunteer</a>&nbsp;effort to&nbsp;<a class="mw-redirect" title="Digitize" href="https://en.wikipedia.org/wiki/Digitize">digitize</a>&nbsp;and archive&nbsp;<a class="mw-redirect" title="Cultural" href="https://en.wikipedia.org/wiki/Cultural">cultural</a>&nbsp;works, as well as to "encourage the creation and distribution of&nbsp;<a class="mw-redirect" title="EBooks" href="https://en.wikipedia.org/wiki/EBooks">eBooks</a>."<sup id="cite_ref-hart1_2-0" class="reference"></sup>&nbsp;It was founded in 1971 by American writer&nbsp;<a title="Michael S. Hart" href="https://en.wikipedia.org/wiki/Michael_S._Hart">Michael S. Hart</a>&nbsp;and is the oldest&nbsp;<a title="Digital library" href="https://en.wikipedia.org/wiki/Digital_library">digital library</a>.<sup id="cite_ref-USINFO_3-0" class="reference"></sup>&nbsp;Most of the items in its collection are the full texts of&nbsp;<a title="Book" href="https://en.wikipedia.org/wiki/Book">books</a>&nbsp;in the&nbsp;<a title="Public domain" href="https://en.wikipedia.org/wiki/Public_domain">public domain</a>. The Project tries to make these as free as possible, in long-lasting,&nbsp;<a title="Open format" href="https://en.wikipedia.org/wiki/Open_format">open formats</a>&nbsp;that can be used on almost any computer. As of 20&nbsp;May&nbsp;2020, Project Gutenberg had reached 62,108 items in its collection of free eBooks.<sup id="cite_ref-4" class="reference"></sup></p>
 <p>The releases are available in&nbsp;<a title="Text file" href="https://en.wikipedia.org/wiki/Text_file">plain text</a>, but other formats, such as&nbsp;<a title="HTML" href="https://en.wikipedia.org/wiki/HTML">HTML</a>,&nbsp;<a title="PDF" href="https://en.wikipedia.org/wiki/PDF">PDF</a>,&nbsp;<a title="EPUB" href="https://en.wikipedia.org/wiki/EPUB">EPUB</a>,&nbsp;<a title="Mobipocket" href="https://en.wikipedia.org/wiki/Mobipocket">MOBI</a>, and&nbsp;<a title="Plucker" href="https://en.wikipedia.org/wiki/Plucker">Plucker</a>&nbsp;are included wherever possible. Most releases are in the&nbsp;<a title="English language" href="https://en.wikipedia.org/wiki/English_language">English language</a>, but many non-English works are also available. There are multiple affiliated projects that provide additional content, including region- and language-specific works. Project Gutenberg is closely affiliated with&nbsp;<a title="Distributed Proofreaders" href="https://en.wikipedia.org/wiki/Distributed_Proofreaders">Distributed Proofreaders</a>, an Internet-based community for proofreading scanned texts.</p>
 
