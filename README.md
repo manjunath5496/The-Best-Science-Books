@@ -2,7 +2,7 @@
 <tbody>
 <tr>
 <td colspan="2">
-  <strong>Project Gutenberg</strong>
+  <center><strong>Project Gutenberg</strong></center></br>
   
   
   <a class="image" href="220px-Project_Gutenberg_logo.svg.png"><img src="220px-Project_Gutenberg_logo.svg.png" srcset="220px-Project_Gutenberg_logo.svg.png" alt="Project Gutenberg logo.svg" width="220" height="220" data-file-width="572" data-file-height="572" /></a></td>
