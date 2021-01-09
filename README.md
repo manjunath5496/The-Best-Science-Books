@@ -1,7 +1,11 @@
-<table class="infobox vcard"><caption class="fn org">Project Gutenberg</caption>
+<table class="infobox vcard">
 <tbody>
 <tr>
-<td colspan="2"><a class="image" href="220px-Project_Gutenberg_logo.svg.png"><img src="220px-Project_Gutenberg_logo.svg.png" srcset="220px-Project_Gutenberg_logo.svg.png" alt="Project Gutenberg logo.svg" width="220" height="220" data-file-width="572" data-file-height="572" /></a></td>
+<td colspan="2">
+  <caption class="fn org">Project Gutenberg</caption>
+  
+  
+  <a class="image" href="220px-Project_Gutenberg_logo.svg.png"><img src="220px-Project_Gutenberg_logo.svg.png" srcset="220px-Project_Gutenberg_logo.svg.png" alt="Project Gutenberg logo.svg" width="220" height="220" data-file-width="572" data-file-height="572" /></a></td>
 </tr>
 <tr>
 <th scope="row">Established</th>
