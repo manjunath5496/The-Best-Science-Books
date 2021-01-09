@@ -434,6 +434,114 @@ The Doctor's Dilemma: Preface on Doctors</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(235).pdf" style="text-decoration:none;">The Female Physician</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(236).pdf" style="text-decoration:none;">The Florist and Horticultural Journal, Vol. II. No. 7, July, 1853</a></li>
+
+
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(237).pdf" style="text-decoration:none;">The Foundations of the Origin of Species</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(238).pdf" style="text-decoration:none;">The Gases of the Atmosphere</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(239).pdf" style="text-decoration:none;">The Genetic and the operative evidence relating to secondary sexual characters</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(240).pdf" style="text-decoration:none;">The Handbook of Soap Manufacture</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(241).pdf" style="text-decoration:none;">The History of Chemistry, Vol II (of 2)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(242).pdf" style="text-decoration:none;">The History of Ink</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(243).pdf" style="text-decoration:none;">The History of Insects</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(244).pdf" style="text-decoration:none;"> History of Phosphorus </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(245).pdf" style="text-decoration:none;">The Human Side of Animals</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(246).pdf" style="text-decoration:none;">The Life-Story of Insects</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(247).pdf" style="text-decoration:none;">The Machinery of the Universe: Mechanical Conceptions of Physical Phenomena</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(248).pdf" style="text-decoration:none;">The New Physics and Its Evolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(249).pdf" style="text-decoration:none;">The Organism as a Whole</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(250).pdf" style="text-decoration:none;">The Phase Rule and Its Applications</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(251).pdf" style="text-decoration:none;">The philosophy of biology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(252).pdf" style="text-decoration:none;">The Philosophy of Health; Volume 1 (of 2) or, an exposition of the physical and mental constitution of man</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(253).pdf" style="text-decoration:none;">The Philosophy of Health; Vol 2 or, an exposition of the physical and mental constitution of man</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(254).pdf" style="text-decoration:none;">Problems of Life and Mind. Second series: The Physical Basis of Mind</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(255).pdf" style="text-decoration:none;">The Principles of Chemistry: Volume I (of 2)</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(256).pdf" style="text-decoration:none;">The Principles of Chemistry. Volume II (of 2)</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(257).pdf" style="text-decoration:none;">The Principles of Leather Manufacture</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(258).pdf" style="text-decoration:none;">The Progress of Ethnology: An Account of Recent Archaeological, Philological and Geographical Researches in Various Parts of the Globe</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(259).pdf" style="text-decoration:none;">The Progress of Invention in the Nineteenth Century</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(260).pdf" style="text-decoration:none;">The Progress of the Century</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(25).pdf" style="text-decoration:none;">Exploiting the Matching Information in the Support Set for Few Shot Event Classification</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(26).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(27).pdf" style="text-decoration:none;">Event Extraction by Answering (Almost) Natural Questions</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(28).pdf" style="text-decoration:none;">Cross-media Structured Common Space for Multimedia Event Extraction</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(29).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(30).pdf" style="text-decoration:none;">Extracting COVID-19 Events from Twitter</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(31).pdf" style="text-decoration:none;">Temporal Random Indexing of Context Vectors Applied to Event Detection</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(32).pdf" style="text-decoration:none;">Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(33).pdf" style="text-decoration:none;">BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? —A Study on the RAMS Dataset</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(34).pdf" style="text-decoration:none;">Improving Event Detection via Open-domain Trigger Knowledge</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(35).pdf" style="text-decoration:none;">A Two-Step Approach for Implicit Event Argument Detection</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(36).pdf" style="text-decoration:none;">Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(37).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(38).pdf" style="text-decoration:none;">Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(39).pdf" style="text-decoration:none;">Global Locality in Biomedical Relation and Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(40).pdf" style="text-decoration:none;">Connecting the Dots: Event Graph Schema Induction with Path Language Modeling</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+ 
+
+
+
+
 </ul>
 
 
