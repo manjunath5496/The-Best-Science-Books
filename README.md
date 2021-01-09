@@ -505,38 +505,38 @@ The Doctor's Dilemma: Preface on Doctors</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(274).pdf" style="text-decoration:none;">The World's Greatest Books - Volume 15 - Science</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(275).pdf" style="text-decoration:none;">This Simian World</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(276).pdf" style="text-decoration:none;">Through Magic Glasses and Other Lectures</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(277).pdf" style="text-decoration:none;">Time and Life: Mr. Darwin's "Origin of Species"</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(278).pdf" style="text-decoration:none;">Triumphs and Wonders of the 19th Century: The True Mirror of a Phenomenal Era</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(279).pdf" style="text-decoration:none;">What is Darwinism?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(280).pdf" style="text-decoration:none;">Wild Nature Won By Kindness</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(281).pdf" style="text-decoration:none;">Woman in Science</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(282).pdf" style="text-decoration:none;">Familiar Letters of Chemistry</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(283).pdf" style="text-decoration:none;">Nerves and Common Sense</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(284).pdf" style="text-decoration:none;">Note on the Resemblances and Differences in the Structure and the Development of Brain in Man and the Apes</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(285).pdf" style="text-decoration:none;">The Reception of the 'Origin of Species'</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(286).pdf" style="text-decoration:none;">The Wonders of Instinct</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(287).pdf" style="text-decoration:none;">The Rare Earths Their Occurrence, Chemistry, and Technology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(288).pdf" style="text-decoration:none;">The Story of Evolution</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(289).pdf" style="text-decoration:none;">The System of Nature, Volume 1</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(290).pdf" style="text-decoration:none;">The System of Nature, Volume 2 </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(291).pdf" style="text-decoration:none;">The Variation of Animals and Plants under Domestication</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(292).pdf" style="text-decoration:none;">The Variation of Animals and Plants Under Domestication, Vol. I </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(293).pdf" style="text-decoration:none;">The Young Physician</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(294).pdf" style="text-decoration:none;">Venomous Arthropod Handbook</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(295).pdf" style="text-decoration:none;">Vestiges of the Natural History of Creation</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Science-Books/blob/master/sh(296).pdf" style="text-decoration:none;">Zoonomia, Vol. I Or, the Laws of Organic Life </a></li>
  
 
 
